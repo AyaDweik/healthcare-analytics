@@ -1,0 +1,9 @@
+patient_id,age,gender,triage_level,wait_time_minutes,appointment_status,satisfaction_score,no_show,wait_risk,age_group
+101,23.0,F,3.0,25.0,Completed,4.0,False,Medium,Adult
+102,45.0,M,2.0,40.0,Completed,5.0,False,Medium,Middle-Age
+103,34.0,F,4.0,42.5,No-Show,4.0,True,Medium,Adult
+104,67.0,M,1.0,10.0,Completed,3.0,False,Low,Senior
+105,41.285714285714285,F,3.0,60.0,Completed,2.0,False,High,Middle-Age
+106,29.0,Unknown,5.0,90.0,No-Show,4.0,True,High,Adult
+107,51.0,M,2.0,45.0,Completed,5.0,False,Medium,Middle-Age
+108,40.0,F,2.0,42.5,Completed,4.0,False,Medium,Adult
